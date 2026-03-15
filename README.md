@@ -1,1 +1,31 @@
-# retail_sales_analysis
+# Retail_sales_analysis
+
+## Project Overview
+This project analyzes retail sales data to identify profitable product categories and business trends.
+
+## Tools Used
+Python
+pandas
+matplotlib
+Tableau
+
+## Key Questions
+- Which product categories generate the highest sales?
+- Which sub-categories produce the most profit?
+- Which customer segments drive revenue?
+
+## Analysis Process
+1. Data exploration and cleaning using Python
+2. Sales and profit analysis with pandas
+3. Data visualization
+4. Interactive dashboard built in Tableau
+
+## Key Insights
+- Technology generates the highest revenue
+- Some sub-categories show negative profitability
+- Consumer segment contributes the most sales
+
+## Files in This Repository
+sales_analysis.ipynb → Python analysis  
+retail_dashboard.twbx → Tableau dashboard  
+superstore.csv → dataset
