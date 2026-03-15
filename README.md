@@ -29,3 +29,10 @@ Tableau
 sales_analysis.ipynb → Python analysis  
 retail_dashboard.twbx → Tableau dashboard  
 superstore.csv → dataset
+
+## Project Structure
+
+data/        → dataset used for analysis  
+notebooks/   → Python analysis notebook  
+dashboard/   → Tableau dashboard  
+images/      → dashboard preview  
