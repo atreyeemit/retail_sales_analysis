@@ -36,3 +36,8 @@ data/        → dataset used for analysis
 notebooks/   → Python analysis notebook  
 dashboard/   → Tableau dashboard  
 images/      → dashboard preview  
+
+**##Output**
+
+<img width="1886" height="848" alt="Screenshot 2026-03-15 194448" src="https://github.com/user-attachments/assets/c3578234-acc1-4c8a-9a12-a04f4e9ea4d3" />
+
